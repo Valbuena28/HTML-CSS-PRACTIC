@@ -1,0 +1,103 @@
+body {
+    font-size: 10px;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.Shadow-box{
+    height: 1200px;
+    width: 100%;
+    background-color: #000a;
+    position: absolute;
+    
+}
+
+.Primary-Box{
+    height: 1000px;
+    width: 70%;
+    margin: 40px;
+    margin-left: 220px;
+    background-color: #eee;
+    position: absolute;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 40px;
+}
+
+.perfil{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-top: 20px;
+    box-shadow: 0 0 10px 1px #000;
+}
+
+.box{
+    width: 1350px;
+    height: 1200px;
+    margin: 0;
+    background-color: red;
+    
+}
+
+
+.Text-box{
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+    margin: 20px;
+}
+
+.html{
+    text-align: center;
+    font-size: large;
+    width: 100px;
+    height: 20px;
+    padding: 5px;
+    border-radius: 50px;
+    background-color: #f21;
+    box-shadow: 0 0 40px 0 #0007;
+    position: absolute;
+}
+
+.css{
+    text-align: center;
+    font-size: large;
+    width: 100px;
+    height: 20px;
+    padding: 5px;
+    border-radius: 50px;
+    background-color: #1ff;
+    box-shadow: 0 0 40px 0 #0007;
+    margin-left: 130px;   
+    list-style: none;    
+    position: absolute;      
+    }
+
+    .GIT{   
+        text-align: center;
+        font-size: large;
+        width: 200px;
+        height: 20px;
+        padding: 5px;
+        border-radius: 50px;
+        background-color: #0007;
+        box-shadow: 0 0 40px 0 #0007;
+        margin-left: 260px;   
+        list-style: none;          
+        }
+
+    h3{
+        text-align: left;
+        margin-left: 30px;
+        margin-top: 100px;
+        
+    }
+
+    p{
+    line-height: 1.4;
+    text-align: left;
+    margin: 40px;
+    }
